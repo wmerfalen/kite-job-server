@@ -1,0 +1,24 @@
+{
+  "name": "kite-job-server",
+  "version": "0.0.1",
+  "description": "A simple to use job controller.",
+  "main": "bin/kite",
+  "scripts": {
+    "test": "node ./tests/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmerfalen/kite-job-server.git"
+  },
+  "keywords": [
+    "job",
+    "server",
+    "supervisor"
+  ],
+  "author": "William Merfalen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmerfalen/kite-job-server/issues"
+  },
+  "homepage": "https://github.com/wmerfalen/kite-job-server#readme"
+}
